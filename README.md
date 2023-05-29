@@ -14,6 +14,7 @@ Core game loop: Get from A to B by navigating platforms and avoiding traps and e
 Game Theme: Escape
 Story: You are trying to escape from map and collecting coins with killing enemies.
 Assets: https://assetstore.unity.com/packages/2d/environments/super-platformer-assets-42013
+LinkedIn and gameplay video: https://www.linkedin.com/feed/update/urn:li:activity:7068897961648283648/ 
 
 ![1](https://github.com/ezgiakbas87/tilevania-game/assets/126782676/4d8451d7-c276-4142-aa8e-bd6d4deef6ae)
 
